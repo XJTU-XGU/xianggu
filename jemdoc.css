@@ -372,3 +372,15 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.news-list {
+  max-height: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 12px;
+}
+
+.news-item {
+  margin-bottom: 14px;
+  line-height: 1.6;
+}
